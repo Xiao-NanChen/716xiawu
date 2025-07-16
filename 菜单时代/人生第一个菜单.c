@@ -2,6 +2,13 @@
 #include<math.h>
 #include<stdlib.h>
 #include<conio.h>
+
+
+//13579
+
+
+
+//看看
 //---------------------定义函数分割线-------------------------//
 
 int ss(int s)  //定义素数函数
